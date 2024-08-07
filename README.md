@@ -1,5 +1,6 @@
 # VisualSPHysics
 If you have any updates to make this work better, feel free to commit them.
+
 VisualSPHysics is an add-on for [Blender](https://www.blender.org/) that allows the user to render realistic images and animations for [DualSPHysics](http://dual.sphysics.org/) simulations.
 
 VisualSPHysics also includes a foam simulator for DualSPHysics fluid simulations. It is based on the method of [M. Ihmsen et al.](https://doi.org/10.1007/s00371-012-0697-9)
